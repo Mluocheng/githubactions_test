@@ -1,5 +1,5 @@
 {
-  "name": "github-actions-demo",
+  "name": "githubactions_test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,7 +7,7 @@
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
   },
-  "homepage": "https://ruanyf.github.io/github-actions-demo",
+  "homepage": "https://MLcheng.github.io/githubactions_test",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
